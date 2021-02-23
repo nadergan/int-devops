@@ -1,4 +1,4 @@
-# Maven Repository (Stolen from Github)
+# Maven Repository 
 
 ##### How to create your own maven repository on GitHub
 
